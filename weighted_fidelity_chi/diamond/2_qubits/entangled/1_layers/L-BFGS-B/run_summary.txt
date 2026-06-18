@@ -1,0 +1,26 @@
+
+Figur of merit = weighted_fidelity_chi
+Problem = diamond
+Number of qubits = 2
+Entanglement = y
+Number of layers = 1
+Minimization method = L-BFGS-B
+Random seed = 30
+
+BEST RESULT
+
+
+THETA = 
+[[[1.27421    0.93331115 0.57993187]]
+
+ [[0.04002833 0.45112281 0.20603047]]]
+ALPHA = 
+[[[-3.34657501e-05  2.40773528e-01]]
+
+ [[ 1.37046678e-01  3.76731812e-01]]]
+WEIGHTS = 
+[[-61.99067625  40.70290773]
+ [  0.99013177  40.96850131]]
+chi**2 = 0.23785878903549015
+acc_train = 0.58
+acc_test = 0.51775

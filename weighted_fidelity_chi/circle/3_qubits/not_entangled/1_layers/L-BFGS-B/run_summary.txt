@@ -1,0 +1,14 @@
+
+Figur of merit = weighted_fidelity_chi
+Problem = circle
+Number of qubits = 3
+Entanglement = n
+Number of layers = 1
+Minimization method = L-BFGS-B
+Random seed = 30
+WEIGHTS = 
+[[ 0.77406314 -0.53076829  1.15604416]
+ [ 0.75438743 -0.91708079  0.75938481]]
+chi**2 = 0.15587854959711214
+acc_train = 0.765
+acc_test = 0.757

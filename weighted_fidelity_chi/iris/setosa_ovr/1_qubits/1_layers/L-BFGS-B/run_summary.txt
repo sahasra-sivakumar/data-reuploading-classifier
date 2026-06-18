@@ -1,0 +1,13 @@
+
+Figur of merit = weighted_fidelity_chi
+Problem = iris
+Number of qubits = 1
+Number of layers = 1
+Minimization method = L-BFGS-B
+Random seed = 30
+WEIGHTS = 
+[[1.08602589]
+ [1.05551192]]
+chi**2 = 0.01390553276816644
+acc_train = 1.0
+acc_test = 1.0
